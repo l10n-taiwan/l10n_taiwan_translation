@@ -1,0 +1,62 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* crm_mass_mailing
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0rc1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-14 13:09+0000\n"
+"PO-Revision-Date: 2014-08-17 19:00+0800\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.6.7\n"
+
+#. module: crm_mass_mailing
+#: field:mail.mass_mailing,campaign_id:0
+msgid "Campaign"
+msgstr "活动"
+
+#. module: crm_mass_mailing
+#: field:mail.mass_mailing,medium_id:0
+msgid "Channel"
+msgstr "频道"
+
+#. module: crm_mass_mailing
+#: model:ir.model,name:crm_mass_mailing.model_mail_mass_mailing
+msgid "Mass Mailing"
+msgstr "邮件群发"
+
+#. module: crm_mass_mailing
+#: field:mail.mass_mailing,source_id:0
+msgid "Source"
+msgstr "源"
+
+#. module: crm_mass_mailing
+#: help:mail.mass_mailing,campaign_id:0
+msgid ""
+"This is a name that helps you keep track of your different campaign efforts "
+"Ex: Fall_Drive, Christmas_Special"
+msgstr "这是一个用于帮助你跟踪不同活动的名称，如：秋季促销、圣诞节特价"
+
+#. module: crm_mass_mailing
+#: help:mail.mass_mailing,medium_id:0
+msgid "This is the method of delivery. Ex: Postcard, Email, or Banner Ad"
+msgstr "这是一个发货方法，如：邮寄卡、电子邮件、广告条"
+
+#. module: crm_mass_mailing
+#: help:mail.mass_mailing,source_id:0
+msgid ""
+"This is the source of the link Ex: Search Engine, another domain, or name of "
+"email list"
+msgstr "这是链接的源：如搜索引擎、另外一个域或一个邮件地址清单的名称"
+
+#. module: crm_mass_mailing
+#: view:mail.mass_mailing:crm_mass_mailing.view_tracking_mass_mailing_form
+msgid "Tracking"
+msgstr "跟踪"

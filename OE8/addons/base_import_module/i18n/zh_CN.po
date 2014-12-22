@@ -1,0 +1,145 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base_import_module
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0alpha1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-23 16:27+0000\n"
+"PO-Revision-Date: 2014-09-28 08:47+0800\n"
+"Last-Translator: 保定-粉刷匠 <992102498@qq.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.6.9\n"
+
+#. module: base_import_module
+#: view:base.import.module:base_import_module.view_base_module_import
+msgid "Cancel"
+msgstr "取消"
+
+#. module: base_import_module
+#: view:base.import.module:base_import_module.view_base_module_import
+msgid "Close"
+msgstr "关闭"
+
+#. module: base_import_module
+#: field:base.import.module,create_uid:0
+msgid "Created by"
+msgstr "创建人"
+
+#. module: base_import_module
+#: field:base.import.module,create_date:0
+msgid "Created on"
+msgstr "创建在"
+
+#. module: base_import_module
+#: code:addons/base_import_module/models/ir_module.py:30
+#: code:addons/base_import_module/models/ir_module.py:82
+#: code:addons/base_import_module/models/ir_module.py:91
+#, python-format
+msgid "Error !"
+msgstr "错误！"
+
+#. module: base_import_module
+#: code:addons/base_import_module/models/ir_module.py:90
+#, python-format
+msgid "File '%s' exceed maximum allowed file size"
+msgstr "文件 '%s' 超出了最大文件限制"
+
+#. module: base_import_module
+#: code:addons/base_import_module/models/ir_module.py:82
+#, python-format
+msgid "File is not a zip file!"
+msgstr "不是一个zip文件"
+
+#. module: base_import_module
+#: field:base.import.module,force:0
+msgid "Force init"
+msgstr "强制初始化"
+
+#. module: base_import_module
+#: help:base.import.module,force:0
+msgid "Force init mode even if installed. (will update `noupdate='1'` records)"
+msgstr "强制初始化模式，即便已经安装（将更新 `noupdate='1'`记录）"
+
+#. module: base_import_module
+#: field:base.import.module,id:0
+msgid "ID"
+msgstr "ID"
+
+#. module: base_import_module
+#: view:base.import.module:base_import_module.view_base_module_import
+#: model:ir.actions.act_window,name:base_import_module.action_view_base_module_import
+#: model:ir.model,name:base_import_module.model_base_import_module
+#: model:ir.ui.menu,name:base_import_module.menu_view_base_module_import
+msgid "Import Module"
+msgstr "导入模块"
+
+#. module: base_import_module
+#: field:base.import.module,import_message:0
+msgid "Import message"
+msgstr "导入信息"
+
+#. module: base_import_module
+#: view:base.import.module:base_import_module.view_base_module_import
+msgid "Import module"
+msgstr "导入模块"
+
+#. module: base_import_module
+#: field:base.import.module,write_uid:0
+msgid "Last Updated by"
+msgstr "最后更新被"
+
+#. module: base_import_module
+#: field:base.import.module,write_date:0
+msgid "Last Updated on"
+msgstr "最后更新在"
+
+#. module: base_import_module
+#: model:ir.model,name:base_import_module.model_ir_module_module
+msgid "Module"
+msgstr "模块"
+
+#. module: base_import_module
+#: field:base.import.module,module_file:0
+msgid "Module .ZIP file"
+msgstr "模块的“.zip”文件"
+
+#. module: base_import_module
+#: view:base.import.module:base_import_module.view_base_module_import
+msgid "Open Modules"
+msgstr "打开模块"
+
+#. module: base_import_module
+#: view:base.import.module:base_import_module.view_base_module_import
+msgid "Select module package to import (.zip file):"
+msgstr "选择要导入的包(“.zip”文件)："
+
+#. module: base_import_module
+#: field:base.import.module,state:0
+msgid "Status"
+msgstr "状态"
+
+#. module: base_import_module
+#: code:addons/base_import_module/models/ir_module.py:29
+#, python-format
+msgid "Unmet module dependencies: %s"
+msgstr "没有满足的模块依赖： %s，"
+
+#. module: base_import_module
+#: selection:base.import.module,state:0
+msgid "done"
+msgstr "完成"
+
+#. module: base_import_module
+#: selection:base.import.module,state:0
+msgid "init"
+msgstr "初始化"
+
+#~ msgid "or"
+#~ msgstr "或"

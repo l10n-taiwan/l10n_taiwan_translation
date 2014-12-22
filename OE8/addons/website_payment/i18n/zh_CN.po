@@ -1,0 +1,58 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_payment
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0rc1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-14 13:09+0000\n"
+"PO-Revision-Date: 2014-08-26 07:38+0800\n"
+"Last-Translator: 保定-粉刷匠 <992102498@qq.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.6.8\n"
+
+#. module: website_payment
+#: view:website:website_payment.cc_form
+msgid "Card code"
+msgstr "信用卡VV码"
+
+#. module: website_payment
+#: view:website:website_payment.cc_form
+msgid "Card number"
+msgstr "信用卡号"
+
+#. module: website_payment
+#: view:website:website_payment.website_settings_payment
+msgid "Configure payment acquirers"
+msgstr "配置付款方"
+
+#. module: website_payment
+#: view:website:website_payment.website_settings_payment
+msgid "E-Commerce"
+msgstr "电子商务"
+
+#. module: website_payment
+#: view:website:website_payment.cc_form
+msgid "Expires"
+msgstr "有效期"
+
+#. module: website_payment
+#: view:website:website_payment.cc_form
+msgid "Holder Name"
+msgstr "持卡人姓名"
+
+#. module: website_payment
+#: view:website:website_payment.cc_form
+msgid "MM / YY"
+msgstr "MM / YY"
+
+#. module: website_payment
+#: view:website:website_payment.cc_form
+msgid "Paypal payment: server 2 server"
+msgstr "Paypal 付款方式:服务器到服务器"

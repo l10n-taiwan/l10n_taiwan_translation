@@ -1,0 +1,70 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_customer
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0rc1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-14 13:09+0000\n"
+"PO-Revision-Date: 2014-08-22 06:46+0800\n"
+"Last-Translator: 保定-粉刷匠 <992102498@qq.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.6.8\n"
+
+#. module: website_customer
+#: code:addons/website_customer/controllers/main.py:55
+#, python-format
+msgid "All Countries"
+msgstr "全部国家"
+
+#. module: website_customer
+#: view:website:website_customer.implemented_by_block
+msgid "Implemented By"
+msgstr "实施被"
+
+#. module: website_customer
+#: view:website:website_customer.index
+msgid "No result found"
+msgstr "没有找到结果"
+
+#. module: website_customer
+#: view:website:website.layout view:website:website_customer.details
+#: view:website:website_customer.index
+msgid "Our References"
+msgstr "我们的关联"
+
+#. module: website_customer
+#: view:website:website_customer.references_block
+msgid "References"
+msgstr "关联"
+
+#. module: website_customer
+#: view:website:website_customer.index
+msgid "References by Country"
+msgstr "通过国家关联"
+
+#. module: website_customer
+#: view:website:website_customer.index
+msgid "Search"
+msgstr "查找"
+
+#. module: website_customer
+#: view:website:website_customer.index
+msgid "Trusted by millions worldwide"
+msgstr "被全世界百万人相信"
+
+#. module: website_customer
+#: view:website:website_customer.index
+msgid "World Map"
+msgstr "世界地图"
+
+#. module: website_customer
+#: view:website:website_customer.implemented_by_block
+msgid "reference(s))"
+msgstr "参考"

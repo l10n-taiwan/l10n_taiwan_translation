@@ -1,0 +1,268 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_hr_recruitment
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 7.saas~4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-23 16:28+0000\n"
+"PO-Revision-Date: 2014-09-28 09:19+0800\n"
+"Last-Translator: 保定-粉刷匠 <992102498@qq.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.6.9\n"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "All Countries"
+msgstr "所有国家"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "All Departments"
+msgstr "所有部门"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "All Offices"
+msgstr "所有办公室"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.detail
+msgid "Apply"
+msgstr "应用"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.apply
+msgid "Apply Job"
+msgstr "申请招聘"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid ""
+"Click on \"Content\" to define a new job offer or \"Help\" for more "
+"informations."
+msgstr "点击“修改”添加新的招聘岗位或者点击“帮助”获取更多的信息。"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.thankyou
+msgid "Continue To Our Website"
+msgstr "继续浏览网站"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.apply
+msgid "Job Application Form"
+msgstr "工作申请表"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.detail
+msgid "Job Detail"
+msgstr "招聘详情"
+
+#. module: website_hr_recruitment
+#: model:ir.model,name:website_hr_recruitment.model_hr_job
+msgid "Job Position"
+msgstr "招聘职位"
+
+#. module: website_hr_recruitment
+#: view:website:website.layout
+#: model:website.menu,name:website_hr_recruitment.menu_jobs
+msgid "Jobs"
+msgstr "招聘"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "Join us and help disrupt the enterprise market!"
+msgstr "加入我们，帮助颠覆企业市场！"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid ""
+"Join us, we offer you an extraordinary chance to learn, to\n"
+"                                    develop and to be part of an exciting "
+"experience and\n"
+"                                    team."
+msgstr ""
+"加入我们，我们为您提供非凡的学习机会\n"
+"成为一个令人兴奋、有丰富经验的团队一份子。"
+
+#. module: website_hr_recruitment
+#: code:addons/website_hr_recruitment/controllers/main.py:69
+#: view:website:website.layout
+#, python-format
+msgid "New Job Offer"
+msgstr "新的工作机会"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "No job offer found"
+msgstr "暂无招聘信息"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "Our Job Offers"
+msgstr "我们提供的工作岗位"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.detail
+msgid "Our Jobs"
+msgstr "我们的工作岗位"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.apply
+msgid "Please send again your resume."
+msgstr "请重新发送您的简历。"
+
+#. module: website_hr_recruitment
+#: field:hr.job,website_published:0
+msgid "Published"
+msgstr "发布时间"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.apply
+msgid "Resume"
+msgstr "简历"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.apply
+msgid "Short Introduction"
+msgstr "简介"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.apply
+msgid "Submit"
+msgstr "提交"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.thankyou
+msgid "Thank you!"
+msgstr "谢谢！"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "There isn't job offer published now, click"
+msgstr "当前没有招聘信息，点击"
+
+#. module: website_hr_recruitment
+#: model:ir.actions.act_url,name:website_hr_recruitment.action_open_website
+msgid "Website Recruitment Form"
+msgstr "网站招聘表"
+
+#. module: website_hr_recruitment
+#: field:hr.job,website_url:0
+msgid "Website URL"
+msgstr "网址"
+
+#. module: website_hr_recruitment
+#: field:hr.job,website_description:0
+msgid "Website description"
+msgstr "网站描述"
+
+#. module: website_hr_recruitment
+#: field:hr.job,website_meta_description:0
+msgid "Website meta description"
+msgstr "网站描述（Description）"
+
+#. module: website_hr_recruitment
+#: field:hr.job,website_meta_keywords:0
+msgid "Website meta keywords"
+msgstr "网站关键词（KeyWords）"
+
+#. module: website_hr_recruitment
+#: field:hr.job,website_meta_title:0
+msgid "Website meta title"
+msgstr "网站标题（Title）"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid ""
+"With a small team of smart people, we released the most\n"
+"                                    disruptive enterprise management "
+"software in the world.\n"
+"                                    Odoo is fully open source, super easy, "
+"full featured\n"
+"                                    (3000+ apps) and its online offer is 3 "
+"times cheaper than\n"
+"                                    traditional competitors like SAP and Ms "
+"Dynamics."
+msgstr ""
+"我们，一支优秀的团队，发布了世界上最具颠覆意义的\n"
+"                                    企业资源规划管理(ERP)软件——Odoo（原"
+"OpenERP）。\n"
+"                                   Odoo，超级简单易用，功能齐全，代码完全开源"
+"(拥有超过3000个以上的模块组件)，而其价格\n"
+"                                   却要比传统的竞争对手如SAP或微软等便宜3倍以"
+"上。\n"
+"                                   加入我们的团队，您将得到一个非凡的学习机"
+"会，并成为我们优秀团队的一员。"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.apply
+msgid "Your Email"
+msgstr "您的邮箱"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.apply
+msgid "Your Name"
+msgstr "您的姓名"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.apply
+msgid "Your Phone"
+msgstr "您的手机"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.thankyou
+msgid ""
+"Your job application has been successfully registered,\n"
+"                        we will get back to you soon."
+msgstr ""
+"您的申请已经成功提交，\n"
+"                 我们会尽快回复您。"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "col-md-3"
+msgstr "col-md-3"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "col-md-9"
+msgstr "col-md-9"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "here"
+msgstr "这里"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "not published"
+msgstr "未发布"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "open positions"
+msgstr "打开位置"
+
+#. module: website_hr_recruitment
+#: view:website:website_hr_recruitment.index
+msgid "to contact us"
+msgstr "联系我们"
+
+#~ msgid "/jobs"
+#~ msgstr "/jobs"
+
+#~ msgid ""
+#~ "Number of hired employee must be less than expected number of employee in "
+#~ "recruitment."
+#~ msgstr "雇佣员工数量必须小于预期招聘的员工数量。"
+
+#~ msgid ""
+#~ "The name of the job position must be unique per department in company!"
+#~ msgstr "公司每个部门的工作岗位的名称必须是唯一的"
