@@ -1,0 +1,87 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_project
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0alpha1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-14 13:09+0000\n"
+"PO-Revision-Date: 2014-08-22 19:33+0800\n"
+"Last-Translator: 保定-粉刷匠 <992102498@qq.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.8\n"
+
+#. module: website_project
+#: view:website:website_project.task_kanban_card
+msgid "Assigned to"
+msgstr "指派"
+
+#. module: website_project
+#: view:website:website_project.task_kanban_card
+msgid "Ending Date:"
+msgstr "结束时间:"
+
+#. module: website_project
+#: model:ir.model,name:website_project.model_project_project
+#: view:website:website_project.index
+msgid "Project"
+msgstr "项目"
+
+#. module: website_project
+#: model:ir.model,name:website_project.model_project_task
+msgid "Task"
+msgstr "任务"
+
+#. module: website_project
+#: field:project.project,website_meta_description:0
+#: field:project.task,website_meta_description:0
+msgid "Website meta description"
+msgstr "网站描述"
+
+#. module: website_project
+#: field:project.project,website_meta_keywords:0
+#: field:project.task,website_meta_keywords:0
+msgid "Website meta keywords"
+msgstr "网站关键字"
+
+#. module: website_project
+#: field:project.project,website_meta_title:0
+#: field:project.task,website_meta_title:0
+msgid "Website meta title"
+msgstr "网站的标题"
+
+#. module: website_project
+#: view:website:website_project.index
+msgid "project.task"
+msgstr "project.task"
+
+#. module: website_project
+#: view:website:website_project.index
+msgid "stage_id"
+msgstr "stage_id"
+
+#. module: website_project
+#: view:website:website_project.index
+msgid "website_project.task_kanban_card"
+msgstr "website_project.task_kanban_card"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "Error ! Task end-date must be greater then task start-date"
+#~ msgstr "错误！任务的结束日期必须晚于任务的开始日期."
+
+#~ msgid "Error ! You cannot create recursive tasks."
+#~ msgstr "错误！你不能创建一个循环的任务."
+
+#~ msgid "Error! You cannot assign escalation to the same project!"
+#~ msgstr "错误！你不能分配到同一个项目!"
+
+#~ msgid "Error! project start-date must be lower then project end-date."
+#~ msgstr "错误！项目开始日期必须早于项目结束日期."

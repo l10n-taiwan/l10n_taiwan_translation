@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* marketing_crm
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server GreenOdoo-trunk-wms-20140425-"
+"linux-34ff97d-599b23a-16a05eb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-14 13:09+0000\n"
+"PO-Revision-Date: 2014-08-21 20:46+0800\n"
+"Last-Translator: 保定-粉刷匠 <992102498@qq.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.6.8\n"
+
+#. module: marketing_crm
+#: help:marketing.config.settings,module_crm_profiling:0
+msgid ""
+"Allows users to perform segmentation within partners.\n"
+"-This installs the module crm_profiling."
+msgstr ""
+"允许用户对业务伙伴执行片段。\n"
+"-这会安装“ crm_profiling”模块。"
+
+#. module: marketing_crm
+#: field:marketing.config.settings,module_marketing_campaign_crm_demo:0
+msgid "Demo data for marketing campaigns"
+msgstr "营销活动的演示数据"
+
+#. module: marketing_crm
+#: help:marketing.config.settings,module_marketing_campaign_crm_demo:0
+msgid ""
+"Installs demo data like leads, campaigns and segments for Marketing "
+"Campaigns.\n"
+"-This installs the module marketing_campaign_crm_demo."
+msgstr ""
+"安装演示数据，如线索，活动和营销活动片段。\n"
+"- 这会安装“marketing_campaign_crm_demo”模块。"
+
+#. module: marketing_crm
+#: view:crm.lead:marketing_crm.view_crm_lead_form
+#: view:crm.lead:marketing_crm.view_crm_opportunity_form
+msgid "Marketing"
+msgstr "市场"
+
+#. module: marketing_crm
+#: field:marketing.config.settings,module_crm_profiling:0
+msgid "Track customer profile to focus your campaigns"
+msgstr "跟踪客户模板来聚焦于你的营销活动"
+
+#~ msgid "marketing.config.settings"
+#~ msgstr "marketing.config.settings"
